@@ -34,7 +34,9 @@
   },
   "description": "Made with React with Hooks.",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "keywords": [
     "react",
     "js"
